@@ -1,0 +1,11 @@
+.output{
+    font-weight: bold;
+    font-size: 4rem;
+    text-align: center;
+    width: 900px;
+    margin: 0 auto;
+}
+body {
+    background-image: linear-gradient(rgb(255, 94, 255), yellow);
+    height: 100vh;
+  }
